@@ -1,4 +1,6 @@
 main()
-{add()
+{huihfa
+	hb
+		add()
 sub()
 }
