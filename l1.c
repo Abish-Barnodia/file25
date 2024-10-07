@@ -2,5 +2,7 @@
 int main(){
 int i,k;
 sum=i+k;
-printf("%d",sum);
+  sub=i-k;
+  div=i/k;
+printf("%d",sum,sub,div);
 }
